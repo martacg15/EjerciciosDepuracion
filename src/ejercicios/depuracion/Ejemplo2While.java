@@ -15,7 +15,7 @@ public class Ejemplo2While {
                contador++;
         }
     }
-    public static int pedirNumero(){
+       public static int pedirNumero(){
      Scanner sc=new Scanner (System.in);
      System.out.println("Introduce un número");
      return sc.nextInt();
